@@ -15,6 +15,3 @@ respiratory)
 ![](Full%20Time%20Junior%20Data%20Scientist.jpg)
 
 ---
-Connect on [LinkedIn](https://www.linkedin.com/in/shehab-raslan/).
-
-For any issue, pull a request or contact me at shehab.raslan.fr@gmail.com
